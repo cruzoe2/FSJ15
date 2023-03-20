@@ -1,0 +1,88 @@
+
+.tabla{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: len;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.nuevo_boton{
+    display: inline-block;
+    width: 80px;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-decoration: none;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 3px;
+
+}
+.tabla thead tr{
+    text-align: middle;
+}
+
+
+.tabla th, 
+.tabla td{
+    padding: 10px 10px 10px 20px;
+}
+.icono{
+    width: 20px;
+    border: none;
+    background: green;
+    cursor: pointer;
+    padding: 5px 3px;
+    color: white;
+    font-size: 20px;
+    transition: .3s ease all;
+
+}
+
+.icono2{
+    width: 20px;
+    border: none;
+    background: blue;
+    cursor: pointer;
+    padding: 5px 3px;
+    color: white;
+    font-size: 20px;
+    transition: .3s ease all;
+}
+
+.icono3{
+    width: 20px;
+    border: none;
+    background: red;
+    cursor: pointer;
+    padding: 5px 3px;
+    color: white;
+    font-size: 20px;
+    transition: .3s ease all;
+}
+
+.boton_agregar{
+    color: white;
+    background-color: blue;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;   
+   
+}
+
+
+.boton_eliminar{
+    color: white;
+    background-color: red;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;   
+   
+}

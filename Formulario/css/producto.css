@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.form-register{
+    width: 700px;
+    background-color: white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: 2px solid black;
+}
+
+.controls{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 100px;
+}
+
+.controls1{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 68px;
+}
+
+.controls2{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 38px;
+}
+.controls3{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 52px;
+}
+.controls4{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 115px;
+}
+
+.controls5{
+    width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 82px;
+}
+
+.controls6{
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 110px;
+}
+
+
+.catego{
+    border-radius: 4px;
+    margin-bottom: 80px;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 88px;
+
+}
+
+.boton{
+    width: 60%;    
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1px;
+    text-decoration: none;
+    color: black;
+}
+
+.boton1{
+    width: 10px;    
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+    text-decoration: none;
+    color: black;
+}
+
+.mover_cancelar{
+    margin-left: 500px;
+}
+
+
